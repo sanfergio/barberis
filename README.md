@@ -12,20 +12,6 @@ Como consequência, alguns acabam desistindo dos aplicativos e voltam a utilizar
 
 ---
 
-## Estrutura do repositório
-
-    .
-    ├── README.md
-    ├── requisitos/
-    │   ├── funcionais.md
-    │   ├── nao-funcionais.md
-    │   └── rastreabilidade.md
-    ├── jornada/
-    │   ├── mapa-jornada.md
-    │   └── evidencias-pesquisa.md
-
----
-
 ## requisitos/
 
 ### requisitos/funcionais.md
