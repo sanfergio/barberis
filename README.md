@@ -14,8 +14,6 @@ Como consequência, alguns acabam desistindo dos aplicativos e voltam a utilizar
 
 ## requisitos/
 
-### requisitos/funcionais.md
-
 Lista dos requisitos funcionais levantados a partir da pesquisa realizada com o barbeiro.
 
 | Código | Requisito | Fonte |
@@ -28,8 +26,6 @@ Lista dos requisitos funcionais levantados a partir da pesquisa realizada com o 
 | RF06 | Dono cadastra serviços e preços de forma simples | Barbeiro |
 | RF07 | Sistema envia lembrete automático ao cliente | Barbeiro |
 
-### requisitos/nao-funcionais.md
-
 Lista dos requisitos não funcionais, considerando usabilidade, simplicidade, desempenho, custo e segurança.
 
 | Código | Requisito | Categoria | Fonte |
@@ -41,7 +37,6 @@ Lista dos requisitos não funcionais, considerando usabilidade, simplicidade, de
 | RNF05 | Custo de operação baixo, utilizando hospedagem gratuita ou barata | Custo | Barbeiro |
 | RNF06 | Dados do cliente devem seguir a LGPD | Segurança | Equipe |
 
-### requisitos/rastreabilidade.md
 
 Documento que relaciona cada requisito à sua fonte, à etapa da jornada e à prioridade definida para o projeto.
 
@@ -60,8 +55,6 @@ Documento que relaciona cada requisito à sua fonte, à etapa da jornada e à pr
 
 ## jornada/
 
-### jornada/mapa-jornada.md
-
 Mapa da experiência do cliente durante o processo de agendamento.
 
 | Etapa | O que acontece | Dor | Oportunidade |
@@ -77,8 +70,6 @@ Mapa da experiência do cliente durante o processo de agendamento.
 
 - **Maior valor:** cliente consegue realizar o agendamento sozinho, sem depender da resposta do barbeiro.
 - **Maior risco de frustração:** conflito de horário ou utilização de um aplicativo complicado demais.
-
-### jornada/evidencias-pesquisa.md
 
 Registro das principais falas e evidências coletadas durante a pesquisa.
 
